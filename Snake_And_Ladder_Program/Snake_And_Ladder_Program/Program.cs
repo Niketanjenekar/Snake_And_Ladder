@@ -14,7 +14,7 @@ namespace Snake_And_Ladder_Program
 
             //**************************Day-4 Assignment***********************
 
-            Console.WriteLine("Third Usecase for Checking for Ladder, Snake or NOPlay");
+            Console.WriteLine("Forth case for repeat till win");
 
             Snake_and_Ladder_Game snake_And_Ladder_Game = new Snake_and_Ladder_Game();
             
